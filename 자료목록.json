@@ -6,13 +6,13 @@
   },
   {
     "path": "index.html",
-    "bytes": 604,
-    "sha256": "94173f9aaaa93b43c83c58a941b8f12adced99b9f6c985c08d87acd822cfa3f0"
+    "bytes": 636,
+    "sha256": "54ed1ce5b28fac85e2bbeefdd45bdbebc9ad73cd26897b519e91e8dc13552c14"
   },
   {
     "path": "README.md",
-    "bytes": 3360,
-    "sha256": "9545cc35913283784d4db2a78355f03ec0e217599bfaf37d2fd453054b21aa6e"
+    "bytes": 3666,
+    "sha256": "df405a9379dcd76d722fd2d270a512f2f16d650a47078dd2218201451c1c87f0"
   },
   {
     "path": "김유정-동백꽃-조광.txt",
@@ -31,8 +31,8 @@
   },
   {
     "path": "제작현황.md",
-    "bytes": 1536,
-    "sha256": "8b2efa6ec6217b2f23726c782d125f901020d4c8c8ffc107672868fd263e670b"
+    "bytes": 2079,
+    "sha256": "3052b5ae2309e2df3c346cd261344c173127ed2c86aa076fc571a453f8c1bfa3"
   },
   {
     "path": "제작자료/Flow_S08_S09_수정프롬프트.txt",
@@ -78,6 +78,51 @@
     "path": "제작자료/콘티/동백꽃_90초_영상제작콘티_v2.html",
     "bytes": 20548012,
     "sha256": "5c2be2777b18073e2a11f8f894ab8d01caa6f266663dd117a7291a8e25239c59"
+  },
+  {
+    "path": "제작자료/이미지/동영상/Boy_and_girl_on_mountain_9ed380aa06.mp4",
+    "bytes": 7088194,
+    "sha256": "5fe3f316cbf8cb12376f71281b4c75c19ed8622f7153c8ebf6c7eef0a05108b9"
+  },
+  {
+    "path": "제작자료/이미지/동영상/Boy_and_girl_repairing_fence_ec386a01.mp4",
+    "bytes": 5498058,
+    "sha256": "dc3da7ef5b4781bc4776367cac1a96510417a4396ceb21cc34abcff4663300e1"
+  },
+  {
+    "path": "제작자료/이미지/동영상/Boy_and_girl_sharing_potatoes_6d921adc02.mp4",
+    "bytes": 3056991,
+    "sha256": "5d04fe00aa43bd3ad60c007abc90dada3b3d9ff0cdd2502c4896f0fa1e3ab6c9"
+  },
+  {
+    "path": "제작자료/이미지/동영상/Boy_wiping_tear_looking_anxiously_e35bdc0207.mp4",
+    "bytes": 5849671,
+    "sha256": "dab6a2689513d16ec4033ef3bf25aedd07b667a069a7b32f8911e8e67258d530"
+  },
+  {
+    "path": "제작자료/이미지/동영상/Characters_exchanging_smiles_in_…_ca1013a608.mp4",
+    "bytes": 4285539,
+    "sha256": "e474b71a3db0e6f33d51dcc076431fd900a562536902f416a623857189069f0a"
+  },
+  {
+    "path": "제작자료/이미지/동영상/Children_and_rooster_interacting_47f16b2f05.mp4",
+    "bytes": 5896515,
+    "sha256": "51cbe795b2636eb63ca49ef4778e88104e31e13467a4b991f808c899a06232c0"
+  },
+  {
+    "path": "제작자료/이미지/동영상/Girl_holding_wrapped_potatoes_27f45dcf03.mp4",
+    "bytes": 3193361,
+    "sha256": "a7c1d84929c70a7ec1d6ecba5de2540ea0bea37191e5d504e2d3a3031dfdb839"
+  },
+  {
+    "path": "제작자료/이미지/동영상/Yellow_blossoms_swaying_in_breeze_f4049a4c09.mp4",
+    "bytes": 3242132,
+    "sha256": "44e87c452e597a3aa7b6aef18d54fef041d54bb5a23cc066e395ea11706d0330"
+  },
+  {
+    "path": "제작자료/이미지/동영상/영상정보.json",
+    "bytes": 4076,
+    "sha256": "9d488d3cdc4c5b95157acaf3e438386879b6d85941ec3eef5c34f7b7c3a00738"
   },
   {
     "path": "제작자료/이미지/소품/P01_감자_세개_1K.png",
