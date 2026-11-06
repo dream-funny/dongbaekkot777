@@ -1,0 +1,181 @@
+CUT 01 / S01
+참조: ../..\제작자료\이미지\씬키이미지\S09_제목과 여운_1K.png
+직접 사용
+시작 이미지: Use the supplied S09 scene key image as the identity, wardrobe, location and lighting reference. Create one 16:9 photorealistic still frame: A close view of tiny yellow blossoms on the right third; empty soft background on the left. Preserve exact faces, hair, costume colors and spatial continuity. No text, no extra characters, no modern objects. This is a still-image preparation step, not a video camera transition.
+영상: Use the supplied prepared still as the exact starting frame. One continuous 16:9 cinematic shot in 1930s rural Korea, warm spring daylight. Preserve faces, clothing, props and background. Only the delicate flower branches sway lightly in a spring breeze. Keep the background still. Complete the action within about 3 seconds, then hold the ending pose for the remaining time. Locked-off camera, no zoom, pan or orbit. No cuts, morphing, extra limbs, captions or logos. Audio: natural location ambience only, no generated speech, no voiceover, no background music. Dialogue, narration and music will be added in editing.
+다운로드: ../..\제작자료\콘티\videos\S01_C01.mp4
+편집 길이: 3초
+대사: 없음
+효과음: 새소리·바람. 잔잔한 음악 시작.
+
+CUT 02 / S01
+참조: ../..\제작자료\이미지\씬키이미지\S01_봄날의 방문_1K.png
+직접 사용
+시작 이미지: Use the supplied S01 scene key image as the identity, wardrobe, location and lighting reference. Create one 16:9 photorealistic still frame: Boy crouched left repairing the fence, girl standing right, cloth-wrapped potatoes concealed. Preserve exact faces, hair, costume colors and spatial continuity. No text, no extra characters, no modern objects. This is a still-image preparation step, not a video camera transition.
+영상: Use the supplied prepared still as the exact starting frame. One continuous 16:9 cinematic shot in 1930s rural Korea, warm spring daylight. Preserve faces, clothing, props and background. The girl takes one small balanced step toward the boy and stops. He makes one small fence-repair motion then glances at her. Keep the potatoes and white ramie cloth hidden. Complete the action within about 5 seconds, then hold the ending pose for the remaining time. Locked-off camera, no zoom, pan or orbit. No cuts, morphing, extra limbs, captions or logos. Audio: natural location ambience only, no generated speech, no voiceover, no background music. Dialogue, narration and music will be added in editing.
+다운로드: ../..\제작자료\콘티\videos\S01_C02.mp4
+편집 길이: 5초
+대사: 나레이션: 그 애는 요즘, 나만 보면 시비였다.
+효과음: 나뭇가지·옷 스침. 내레이션은 후반 녹음.
+
+CUT 03 / S02
+참조: ../..\제작자료\이미지\씬키이미지\S02_거절당한 감자_1K.png
+구도 변경
+시작 이미지: Use the supplied S02 scene key image as the identity, wardrobe, location and lighting reference. Create one 16:9 photorealistic still frame: Medium shot favoring the girl on the right, boy shoulder soft at left. Exactly three whole potatoes in the same loose white ramie towel between them. Preserve exact faces, hair, costume colors and spatial continuity. No text, no extra characters, no modern objects. This is a still-image preparation step, not a video camera transition.
+영상: Use the supplied prepared still as the exact starting frame. One continuous 16:9 cinematic shot in 1930s rural Korea, warm spring daylight. Preserve faces, clothing, props and background. The girl gently offers the white ramie towel bundle a little farther forward. Exactly three hot potatoes remain securely in it, with faint steam. Her hopeful smile hides embarrassment; she waits for his response. Complete the action within about 6 seconds, then hold the ending pose for the remaining time. Locked-off camera, no zoom, pan or orbit. No cuts, morphing, extra limbs, captions or logos. Audio: natural location ambience only, no generated speech, no voiceover, no background music. Dialogue, narration and music will be added in editing.
+다운로드: ../..\제작자료\콘티\videos\S02_C03.mp4
+편집 길이: 6초
+대사: 점순: 느 집엔 이거 없지?
+효과음: 천 스침. 대사 후 짧은 쉼.
+
+CUT 04 / S02
+참조: ../..\제작자료\이미지\씬키이미지\S02_거절당한 감자_1K.png
+구도 변경
+시작 이미지: Use the supplied S02 scene key image as the identity, wardrobe, location and lighting reference. Create one 16:9 photorealistic still frame: Medium shot favoring boy on left. Girl towel-supported hands and three potatoes at lower right; hands have not been pushed away yet. Preserve exact faces, hair, costume colors and spatial continuity. No text, no extra characters, no modern objects. This is a still-image preparation step, not a video camera transition.
+영상: Use the supplied prepared still as the exact starting frame. One continuous 16:9 cinematic shot in 1930s rural Korea, warm spring daylight. Preserve faces, clothing, props and background. The boy looks at the offered potatoes, tightens his expression, lightly nudges the girl towel-supported hands away, then turns his face aside. She retains her grip; all three potatoes and the towel stay in her hands without falling. Complete the action within about 6 seconds, then hold the ending pose for the remaining time. Locked-off camera, no zoom, pan or orbit. No cuts, morphing, extra limbs, captions or logos. Audio: natural location ambience only, no generated speech, no voiceover, no background music. Dialogue, narration and music will be added in editing.
+다운로드: ../..\제작자료\콘티\videos\S02_C04.mp4
+편집 길이: 6초
+대사: 소년: 안 먹는다. 너나 먹어.
+효과음: 거절에 맞춰 음악 끊기.
+
+CUT 05 / S03
+참조: ../..\제작자료\이미지\씬키이미지\S03_엇갈린 마음_1K.png
+구도 변경
+시작 이미지: Use the supplied S03 scene key image as the identity, wardrobe, location and lighting reference. Create one 16:9 photorealistic still frame: Close-up of the girl two hands holding the edges and underside of the white ramie towel around exactly three whole potatoes at her waist. No faces required. Preserve exact faces, hair, costume colors and spatial continuity. No text, no extra characters, no modern objects. This is a still-image preparation step, not a video camera transition.
+영상: Use the supplied prepared still as the exact starting frame. One continuous 16:9 cinematic shot in 1930s rural Korea, warm spring daylight. Preserve faces, clothing, props and background. Her fingers slowly tighten on the WHITE CLOTH edges, not on hot potato skins. She draws the secure bundle a few centimeters closer to her waist. Preserve exactly three potatoes and natural fingers. Complete the action within about 5 seconds, then hold the ending pose for the remaining time. Locked-off camera, no zoom, pan or orbit. No cuts, morphing, extra limbs, captions or logos. Audio: natural location ambience only, no generated speech, no voiceover, no background music. Dialogue, narration and music will be added in editing.
+다운로드: ../..\제작자료\콘티\videos\S03_C05.mp4
+편집 길이: 5초
+대사: 나레이션: 나는 그 말이 싫었다.
+효과음: 천 구겨지는 소리.
+
+CUT 06 / S03
+참조: ../..\제작자료\이미지\씬키이미지\S03_엇갈린 마음_1K.png
+구도 변경
+시작 이미지: Use the supplied S03 scene key image as the identity, wardrobe, location and lighting reference. Create one 16:9 photorealistic still frame: Close-up of girl sad face at right, boy softly blurred repairing fence at left background. Towel and potatoes remain below frame in her hands. Preserve exact faces, hair, costume colors and spatial continuity. No text, no extra characters, no modern objects. This is a still-image preparation step, not a video camera transition.
+영상: Use the supplied prepared still as the exact starting frame. One continuous 16:9 cinematic shot in 1930s rural Korea, warm spring daylight. Preserve faces, clothing, props and background. The girl presses her lips together, holds back tears, then slowly turns her head and shoulders toward screen right. The boy stays turned toward the fence. No dramatic sobbing. Complete the action within about 5 seconds, then hold the ending pose for the remaining time. Locked-off camera, no zoom, pan or orbit. No cuts, morphing, extra limbs, captions or logos. Audio: natural location ambience only, no generated speech, no voiceover, no background music. Dialogue, narration and music will be added in editing.
+다운로드: ../..\제작자료\콘티\videos\S03_C06.mp4
+편집 길이: 5초
+대사: 나레이션: 가난하다고 놀리는 것 같아서.
+효과음: 끝 0.5초에 다음 장면 닭 울음 선행.
+
+CUT 07 / S04
+참조: ../..\제작자료\이미지\씬키이미지\S04_닭싸움_1K.png
+구도 변경
+시작 이미지: Use the supplied S04 scene key image as the identity, wardrobe, location and lighting reference. Create one 16:9 photorealistic still frame: Low shot of the small brown rooster and boy lower legs on level courtyard dirt. Feet under hips, both soles grounded. Girl may be outside this tight frame; no rival visible. Preserve exact faces, hair, costume colors and spatial continuity. No text, no extra characters, no modern objects. This is a still-image preparation step, not a video camera transition.
+영상: Use the supplied prepared still as the exact starting frame. One continuous 16:9 cinematic shot in 1930s rural Korea, warm spring daylight. Preserve faces, clothing, props and background. The small rooster takes two short steps left. The boy makes ONE short controlled step beside it and stops with a balanced hip-width stance, both feet on the ground. No lunging, no floating feet, no physical animal fight. Complete the action within about 6 seconds, then hold the ending pose for the remaining time. Locked-off camera, no zoom, pan or orbit. No cuts, morphing, extra limbs, captions or logos. Audio: natural location ambience only, no generated speech, no voiceover, no background music. Dialogue, narration and music will be added in editing.
+다운로드: ../..\제작자료\콘티\videos\S04_C07.mp4
+편집 길이: 6초
+대사: 없음
+효과음: 닭 울음·날갯짓. 깃털은 후반 효과.
+
+CUT 08 / S04
+참조: ../..\제작자료\이미지\씬키이미지\S04_닭싸움_1K.png
+구도 변경
+시작 이미지: Use the supplied S04 scene key image as the identity, wardrobe, location and lighting reference. Create one 16:9 photorealistic still frame: Eye-level waist-up two-shot of boy left and girl right in same courtyard. Both stand upright with relaxed shoulders. Preserve exact faces, hair, costume colors and spatial continuity. No text, no extra characters, no modern objects. This is a still-image preparation step, not a video camera transition.
+영상: Use the supplied prepared still as the exact starting frame. One continuous 16:9 cinematic shot in 1930s rural Korea, warm spring daylight. Preserve faces, clothing, props and background. Boy turns toward girl with restrained anger. Girl raises her chin defensively, then hesitates and lowers her eyes. Keep bodies upright and weight stable, no aggressive gesture or extra steps. Complete the action within about 7 seconds, then hold the ending pose for the remaining time. Locked-off camera, no zoom, pan or orbit. No cuts, morphing, extra limbs, captions or logos. Audio: natural location ambience only, no generated speech, no voiceover, no background music. Dialogue, narration and music will be added in editing.
+다운로드: ../..\제작자료\콘티\videos\S04_C08.mp4
+편집 길이: 7초
+대사: 소년: 또 네가 싸움 붙였지?
+점순: 그러게 누가…….
+효과음: 짧은 쉼, 닭 소리 줄임.
+
+CUT 09 / S05
+참조: ../..\제작자료\이미지\씬키이미지\S05_참아야 하는 이유_1K.png
+구도 변경
+시작 이미지: Use the supplied S05 scene key image as the identity, wardrobe, location and lighting reference. Create one 16:9 photorealistic still frame: Close view of boy hands gently supporting the small brown rooster on his lap. No visible wound, no extra cloth or extra hands. Preserve exact faces, hair, costume colors and spatial continuity. No text, no extra characters, no modern objects. This is a still-image preparation step, not a video camera transition.
+영상: Use the supplied prepared still as the exact starting frame. One continuous 16:9 cinematic shot in 1930s rural Korea, warm spring daylight. Preserve faces, clothing, props and background. Boy gently adjusts one supporting hand under the resting rooster. The rooster breathes softly and makes a small natural head movement, remaining calm. Complete the action within about 5 seconds, then hold the ending pose for the remaining time. Locked-off camera, no zoom, pan or orbit. No cuts, morphing, extra limbs, captions or logos. Audio: natural location ambience only, no generated speech, no voiceover, no background music. Dialogue, narration and music will be added in editing.
+다운로드: ../..\제작자료\콘티\videos\S05_C09.mp4
+편집 길이: 5초
+대사: 소년의 어머니: 점순네하고 틀어지면, 우리 땅은 어쩌니.
+효과음: 숨소리. 어머니 회상 음성 후반 삽입.
+
+CUT 10 / S05
+참조: ../..\제작자료\이미지\씬키이미지\S05_참아야 하는 이유_1K.png
+구도 변경
+시작 이미지: Use the supplied S05 scene key image as the identity, wardrobe, location and lighting reference. Create one 16:9 photorealistic still frame: Close-up three-quarter profile of same boy, seated beside fence, looking room toward screen right. Rooster stays safely on lap below frame. Preserve exact faces, hair, costume colors and spatial continuity. No text, no extra characters, no modern objects. This is a still-image preparation step, not a video camera transition.
+영상: Use the supplied prepared still as the exact starting frame. One continuous 16:9 cinematic shot in 1930s rural Korea, warm spring daylight. Preserve faces, clothing, props and background. The boy slowly raises his gaze toward the house beyond the fence, tightens his lips, and holds his worried expression. No talking or sudden movement. Complete the action within about 5 seconds, then hold the ending pose for the remaining time. Locked-off camera, no zoom, pan or orbit. No cuts, morphing, extra limbs, captions or logos. Audio: natural location ambience only, no generated speech, no voiceover, no background music. Dialogue, narration and music will be added in editing.
+다운로드: ../..\제작자료\콘티\videos\S05_C10.mp4
+편집 길이: 5초
+대사: 나레이션: 화가 나도, 참아야 했다.
+효과음: 끝부분 호드기 소리 선행.
+
+CUT 11 / S06
+참조: ../..\제작자료\이미지\씬키이미지\S06_멈춘 호드기_1K.png
+직접 사용
+시작 이미지: Use the supplied S06 scene key image as the identity, wardrobe, location and lighting reference. Create one 16:9 photorealistic still frame: Boy left with jige, girl seated right on rock holding small bark whistle at her mouth. Preserve exact faces, hair, costume colors and spatial continuity. No text, no extra characters, no modern objects. This is a still-image preparation step, not a video camera transition.
+영상: Use the supplied prepared still as the exact starting frame. One continuous 16:9 cinematic shot in 1930s rural Korea, warm spring daylight. Preserve faces, clothing, props and background. Boy shifts into a stable stop and looks toward the ground in front of the girl. Girl continues a tiny natural blowing motion on her small bark whistle. Yellow flowers sway gently. No chickens enter frame. Complete the action within about 4 seconds, then hold the ending pose for the remaining time. Locked-off camera, no zoom, pan or orbit. No cuts, morphing, extra limbs, captions or logos. Audio: natural location ambience only, no generated speech, no voiceover, no background music. Dialogue, narration and music will be added in editing.
+다운로드: ../..\제작자료\콘티\videos\S06_C11.mp4
+편집 길이: 4초
+대사: 없음
+효과음: 호드기·화면 밖 닭 소리.
+
+CUT 12 / S06
+참조: ../..\제작자료\이미지\씬키이미지\S06_멈춘 호드기_1K.png
+구도 변경
+시작 이미지: Use the supplied S06 scene key image as the identity, wardrobe, location and lighting reference. Create one 16:9 photorealistic still frame: Medium shot of boy only at the same mountain clearing. Jige now off his shoulders on ground behind him, one plain wooden stick held low in one hand before the action. No animals or other person in shot. Preserve exact faces, hair, costume colors and spatial continuity. No text, no extra characters, no modern objects. This is a still-image preparation step, not a video camera transition.
+영상: Use the supplied prepared still as the exact starting frame. One continuous 16:9 cinematic shot in 1930s rural Korea, warm spring daylight. Preserve faces, clothing, props and background. One brief controlled action: the boy swings the plain wooden stick downward ONCE into empty offscreen space and stops. The target is never visible; no animal contact, no injury. Keep feet planted and balanced. Complete the action within about 3 seconds, then hold the ending pose for the remaining time. Locked-off camera, no zoom, pan or orbit. No cuts, morphing, extra limbs, captions or logos. Audio: natural location ambience only, no generated speech, no voiceover, no background music. Dialogue, narration and music will be added in editing.
+다운로드: ../..\제작자료\콘티\videos\S06_C12.mp4
+편집 길이: 3초
+대사: 소년: 그만해!
+효과음: 지게 낙하·휘두름·끝 타격 효과음은 후반.
+
+CUT 13 / S06
+참조: ../..\제작자료\이미지\씬키이미지\S06_멈춘 호드기_1K.png
+구도 변경
+시작 이미지: Use the supplied S06 scene key image as the identity, wardrobe, location and lighting reference. Create one 16:9 photorealistic still frame: Close-up of same girl seated by rock, small bark whistle still near her mouth before lowering it. Boy and chickens offscreen. Preserve exact faces, hair, costume colors and spatial continuity. No text, no extra characters, no modern objects. This is a still-image preparation step, not a video camera transition.
+영상: Use the supplied prepared still as the exact starting frame. One continuous 16:9 cinematic shot in 1930s rural Korea, warm spring daylight. Preserve faces, clothing, props and background. Girl stops blowing, lowers the small whistle, freezes in shock, glances down at offscreen ground and slowly raises her eyes toward the boy offscreen left. No smile, no visible dead animal. Complete the action within about 5 seconds, then hold the ending pose for the remaining time. Locked-off camera, no zoom, pan or orbit. No cuts, morphing, extra limbs, captions or logos. Audio: natural location ambience only, no generated speech, no voiceover, no background music. Dialogue, narration and music will be added in editing.
+다운로드: ../..\제작자료\콘티\videos\S06_C13.mp4
+편집 길이: 5초
+대사: 점순: 너…… 우리 닭을 죽였어?
+효과음: 첫 0.5초 정적. 화면 밖 막대기 낙하.
+
+CUT 14 / S07
+참조: ../..\제작자료\이미지\씬키이미지\S07_처음 본 눈물_1K.png
+구도 변경
+시작 이미지: Use the supplied S07 scene key image as the identity, wardrobe, location and lighting reference. Create one 16:9 photorealistic still frame: Close-up same boy seated on ground, knees raised, tearful face and beige sleeve visible, yellow shrubs blurred. Girl outside the close frame. Preserve exact faces, hair, costume colors and spatial continuity. No text, no extra characters, no modern objects. This is a still-image preparation step, not a video camera transition.
+영상: Use the supplied prepared still as the exact starting frame. One continuous 16:9 cinematic shot in 1930s rural Korea, warm spring daylight. Preserve faces, clothing, props and background. He wipes a tear once with his sleeve, lowers the arm and looks anxiously toward the girl. A very slow subtle camera push for the first two seconds, then hold still. Complete the action within about 6 seconds, then hold the ending pose for the remaining time. No cuts, morphing, extra limbs, captions or logos. Audio: natural location ambience only, no generated speech, no voiceover, no background music. Dialogue, narration and music will be added in editing.
+다운로드: ../..\제작자료\콘티\videos\S07_C14.mp4
+편집 길이: 6초
+대사: 소년: 우리 집…… 쫓겨나는 거냐?
+효과음: 음악 없음. 바람·숨.
+
+CUT 15 / S07
+참조: ../..\제작자료\이미지\씬키이미지\S07_처음 본 눈물_1K.png
+직접 사용
+시작 이미지: Use the supplied S07 scene key image as the identity, wardrobe, location and lighting reference. Create one 16:9 photorealistic still frame: Boy seated left, girl crouched right, both concerned. Hands on their own knees before apology. Preserve exact faces, hair, costume colors and spatial continuity. No text, no extra characters, no modern objects. This is a still-image preparation step, not a video camera transition.
+영상: Use the supplied prepared still as the exact starting frame. One continuous 16:9 cinematic shot in 1930s rural Korea, warm spring daylight. Preserve faces, clothing, props and background. Girl gently settles from her low crouch into a seated position beside him, looks at him with remorse then lowers her eyes toward her own hands. Boy slowly steadies his breathing. No touching yet. Complete the action within about 6 seconds, then hold the ending pose for the remaining time. Locked-off camera, no zoom, pan or orbit. No cuts, morphing, extra limbs, captions or logos. Audio: natural location ambience only, no generated speech, no voiceover, no background music. Dialogue, narration and music will be added in editing.
+다운로드: ../..\제작자료\콘티\videos\S07_C15.mp4
+편집 길이: 6초
+대사: 점순: 안 이를게.
+점순: 닭쌈도, 이제 안 붙일게.
+효과음: 마지막 대사 뒤 따뜻한 음악.
+
+CUT 16 / S08
+참조: ../..\제작자료\이미지\씬키이미지\S08_노란 꽃밭_1K.png
+직접 사용
+시작 이미지: Use the supplied S08 scene key image as the identity, wardrobe, location and lighting reference. Create one 16:9 photorealistic still frame: Girl right with her hand hovering just above boy shoulder; boy left with lowered gaze. Preserve exact faces, hair, costume colors and spatial continuity. No text, no extra characters, no modern objects. This is a still-image preparation step, not a video camera transition.
+영상: Use the supplied prepared still as the exact starting frame. One continuous 16:9 cinematic shot in 1930s rural Korea, warm spring daylight. Preserve faces, clothing, props and background. Girl gently places her hovering hand on boy shoulder. Boy lifts his eyes to meet hers. Hold a restrained tender expression, no embrace, no kiss, no exaggerated smile. Complete the action within about 4 seconds, then hold the ending pose for the remaining time. Locked-off camera, no zoom, pan or orbit. No cuts, morphing, extra limbs, captions or logos. Audio: natural location ambience only, no generated speech, no voiceover, no background music. Dialogue, narration and music will be added in editing.
+다운로드: ../..\제작자료\콘티\videos\S08_C16.mp4
+편집 길이: 4초
+대사: 없음
+효과음: 바람·따뜻한 음악.
+
+CUT 17 / S08
+참조: ../..\제작자료\이미지\씬키이미지\S08_노란 꽃밭_1K.png
+구도 변경
+시작 이미지: Use the supplied S08 scene key image as the identity, wardrobe, location and lighting reference. Create one 16:9 photorealistic still frame: Slightly wider two-shot after reconciliation, girl hand already resting on boy shoulder, same seated positions among flowers. Preserve exact faces, hair, costume colors and spatial continuity. No text, no extra characters, no modern objects. This is a still-image preparation step, not a video camera transition.
+영상: Use the supplied prepared still as the exact starting frame. One continuous 16:9 cinematic shot in 1930s rural Korea, warm spring daylight. Preserve faces, clothing, props and background. At an unheard cue both turn their heads together toward the downhill direction at screen left, then glance back at each other with a small embarrassed smile. Girl gently lowers her hand from his shoulder. Complete the action within about 4 seconds, then hold the ending pose for the remaining time. Locked-off camera, no zoom, pan or orbit. No cuts, morphing, extra limbs, captions or logos. Audio: natural location ambience only, no generated speech, no voiceover, no background music. Dialogue, narration and music will be added in editing.
+다운로드: ../..\제작자료\콘티\videos\S08_C17.mp4
+편집 길이: 4초
+대사: 점순이 어머니(화면 밖): 점순아!
+효과음: 어머니 부름·어색한 짧은 웃음.
+
+CUT 18 / S09
+참조: ../..\제작자료\이미지\씬키이미지\S09_제목과 여운_1K.png
+직접 사용
+시작 이미지: Use the supplied S09 scene key image as the identity, wardrobe, location and lighting reference. Create one 16:9 photorealistic still frame: Yellow blossoms on right, center and left softly blurred with open space. No letters in the image. Preserve exact faces, hair, costume colors and spatial continuity. No text, no extra characters, no modern objects. This is a still-image preparation step, not a video camera transition.
+영상: Use the supplied prepared still as the exact starting frame. One continuous 16:9 cinematic shot in 1930s rural Korea, warm spring daylight. Preserve faces, clothing, props and background. The yellow flower branches move very gently in the breeze. Preserve the quiet empty center for a title added later. Keep focus and exposure stable. Complete the action within about 5 seconds, then hold the ending pose for the remaining time. Locked-off camera, no zoom, pan or orbit. No cuts, morphing, extra limbs, captions or logos. Audio: natural location ambience only, no generated speech, no voiceover, no background music. Dialogue, narration and music will be added in editing.
+다운로드: ../..\제작자료\콘티\videos\S09_C18.mp4
+편집 길이: 5초
+대사: 나레이션: 그날, 그 애가 조금 달라 보였다.
+효과음: 음악 끝 0.5초 줄임.
