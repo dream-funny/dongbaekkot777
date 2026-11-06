@@ -5,14 +5,19 @@
     "sha256": "7c4fcb1840304678c3f44276981b7df4fd56a416b885d83f9cf0895ac831f20a"
   },
   {
+    "path": "AGENTS.md",
+    "bytes": 832,
+    "sha256": "c951f009899f5176567029c24ffec6f1a9000a7e3e891cac67c118ae4512ed3c"
+  },
+  {
     "path": "index.html",
     "bytes": 636,
-    "sha256": "54ed1ce5b28fac85e2bbeefdd45bdbebc9ad73cd26897b519e91e8dc13552c14"
+    "sha256": "6e75326b6f0f53f12f83010152b758bd85206264dc80cc818a3103ce0d3997e3"
   },
   {
     "path": "README.md",
-    "bytes": 3666,
-    "sha256": "df405a9379dcd76d722fd2d270a512f2f16d650a47078dd2218201451c1c87f0"
+    "bytes": 3618,
+    "sha256": "559cd526cd038542280df29deda8ee98694da0bee9e7d4bb8e90cd91625acced"
   },
   {
     "path": "김유정-동백꽃-조광.txt",
@@ -31,8 +36,8 @@
   },
   {
     "path": "제작현황.md",
-    "bytes": 2079,
-    "sha256": "3052b5ae2309e2df3c346cd261344c173127ed2c86aa076fc571a453f8c1bfa3"
+    "bytes": 2411,
+    "sha256": "3044cdcb8992a369dfe423736013ddb5756b645c0b680b9272ad1cd662933381"
   },
   {
     "path": "제작자료/Flow_S08_S09_수정프롬프트.txt",
@@ -95,6 +100,11 @@
     "sha256": "5d04fe00aa43bd3ad60c007abc90dada3b3d9ff0cdd2502c4896f0fa1e3ab6c9"
   },
   {
+    "path": "제작자료/이미지/동영상/Boy_holding_rooster_near_fence_d6ebaeb205.mp4",
+    "bytes": 4340617,
+    "sha256": "5471864cc93968b1a8e31d38d654d9dbd537e224ae2fb58aa37a52ddbddd5c4a"
+  },
+  {
     "path": "제작자료/이미지/동영상/Boy_wiping_tear_looking_anxiously_e35bdc0207.mp4",
     "bytes": 5849671,
     "sha256": "dab6a2689513d16ec4033ef3bf25aedd07b667a069a7b32f8911e8e67258d530"
@@ -105,7 +115,7 @@
     "sha256": "e474b71a3db0e6f33d51dcc076431fd900a562536902f416a623857189069f0a"
   },
   {
-    "path": "제작자료/이미지/동영상/Children_and_rooster_interacting_47f16b2f05.mp4",
+    "path": "제작자료/이미지/동영상/Children_and_rooster_interacting_47f16b2f04.mp4",
     "bytes": 5896515,
     "sha256": "51cbe795b2636eb63ca49ef4778e88104e31e13467a4b991f808c899a06232c0"
   },
@@ -121,8 +131,8 @@
   },
   {
     "path": "제작자료/이미지/동영상/영상정보.json",
-    "bytes": 4076,
-    "sha256": "9d488d3cdc4c5b95157acaf3e438386879b6d85941ec3eef5c34f7b7c3a00738"
+    "bytes": 4585,
+    "sha256": "3a4dfa0a2f958e48f80f9eb81d8c7150432a1a865e91a348cc301f0220c78260"
   },
   {
     "path": "제작자료/이미지/소품/P01_감자_세개_1K.png",

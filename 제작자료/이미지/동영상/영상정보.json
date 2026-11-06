@@ -66,6 +66,28 @@
     }
   },
   {
+    "file": "Boy_holding_rooster_near_fence_d6ebaeb205.mp4",
+    "bytes": 4340617,
+    "sha256": "5471864cc93968b1a8e31d38d654d9dbd537e224ae2fb58aa37a52ddbddd5c4a",
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "8.042667"
+      }
+    }
+  },
+  {
     "file": "Boy_wiping_tear_looking_anxiously_e35bdc0207.mp4",
     "bytes": 5849671,
     "sha256": "dab6a2689513d16ec4033ef3bf25aedd07b667a069a7b32f8911e8e67258d530",
@@ -110,7 +132,7 @@
     }
   },
   {
-    "file": "Children_and_rooster_interacting_47f16b2f05.mp4",
+    "file": "Children_and_rooster_interacting_47f16b2f04.mp4",
     "bytes": 5896515,
     "sha256": "51cbe795b2636eb63ca49ef4778e88104e31e13467a4b991f808c899a06232c0",
     "metadata": {
