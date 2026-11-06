@@ -16,8 +16,8 @@
   },
   {
     "path": "README.md",
-    "bytes": 3618,
-    "sha256": "559cd526cd038542280df29deda8ee98694da0bee9e7d4bb8e90cd91625acced"
+    "bytes": 3846,
+    "sha256": "3d5f1882e358d4afddfff2b8a493d5f35ecbd0146e9f4dba663a512f918d0a98"
   },
   {
     "path": "김유정-동백꽃-조광.txt",
@@ -36,8 +36,8 @@
   },
   {
     "path": "제작현황.md",
-    "bytes": 2411,
-    "sha256": "3044cdcb8992a369dfe423736013ddb5756b645c0b680b9272ad1cd662933381"
+    "bytes": 2729,
+    "sha256": "eef82e82118a65c0b2e8852d5b491ca81cd509570f213049164b4f7770a9f961"
   },
   {
     "path": "제작자료/Flow_S08_S09_수정프롬프트.txt",
@@ -63,6 +63,16 @@
     "path": "제작자료/동백꽃_제작분석_콘티포함_v2.xlsx",
     "bytes": 44211315,
     "sha256": "a3a970512c7a69c4849af934b9b3eeb85fdbd33fb124a55b3097f61fee4990d4"
+  },
+  {
+    "path": "제작자료/내레이션/동백꽃777_변사풍_내레이션_연출안_v1.md",
+    "bytes": 4444,
+    "sha256": "e1ad95ce8d55129591d4dafb1393630e10422a40b6ca8042cdb3d13f2bf8fa77"
+  },
+  {
+    "path": "제작자료/내레이션/동백꽃777_변사풍_녹음대본_v1.txt",
+    "bytes": 1453,
+    "sha256": "4a6694ef43017898870ef3ad9a7c83afeade3927bb1c2521ba04e3af6dc750c9"
   },
   {
     "path": "제작자료/콘티/Flow_컴퓨터유즈_작업목록_v2.json",
