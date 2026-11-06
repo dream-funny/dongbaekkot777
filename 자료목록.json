@@ -15,11 +15,6 @@
     "sha256": "6e75326b6f0f53f12f83010152b758bd85206264dc80cc818a3103ce0d3997e3"
   },
   {
-    "path": "README.md",
-    "bytes": 3846,
-    "sha256": "3d5f1882e358d4afddfff2b8a493d5f35ecbd0146e9f4dba663a512f918d0a98"
-  },
-  {
     "path": "김유정-동백꽃-조광.txt",
     "bytes": 16984,
     "sha256": "8fcd962cb8e8bd9d6147ac078264afe89416f9abcfee15246c85e472a501a99e"
@@ -33,11 +28,6 @@
     "path": "동백꽃_90초_트레일러_시나리오.txt",
     "bytes": 6392,
     "sha256": "fe3ebe40d171cb2fb27c21270c26e870fff8432eb508f66352396efea0903d46"
-  },
-  {
-    "path": "제작현황.md",
-    "bytes": 2729,
-    "sha256": "eef82e82118a65c0b2e8852d5b491ca81cd509570f213049164b4f7770a9f961"
   },
   {
     "path": "제작자료/Flow_S08_S09_수정프롬프트.txt",
@@ -273,5 +263,80 @@
     "path": "제작자료/콘티/videos/영상저장_안내.txt",
     "bytes": 694,
     "sha256": "cf69b0731fd78e75cad5fad1408736874f447fb9dd87a11b1e99c857d66cbfd7"
+  },
+  {
+    "path": "README.md",
+    "bytes": 4151,
+    "sha256": "52ad146b797a652fa90ee5fb6f824153f4cf70e1eb433b70583fb569c4925f2f"
+  },
+  {
+    "path": "제작자료/내레이션/동백꽃777_한글자막.srt",
+    "bytes": 1776,
+    "sha256": "3faf224ba3581c86c52f70545024b18e7fc350c12cadf9cf67d39227dfabe6f4"
+  },
+  {
+    "path": "제작자료/내레이션/음성/S01_봄날의방문.mp3",
+    "bytes": 94501,
+    "sha256": "e50e7e2be3b46eed5ab7468cc15d800eda32930200312ea48920513a3401a50e"
+  },
+  {
+    "path": "제작자료/내레이션/음성/S02_거절당한감자.mp3",
+    "bytes": 102025,
+    "sha256": "539a25e47f25be5096d29fb628a770b16253d1d1575c746c27aea22beb7bcd49"
+  },
+  {
+    "path": "제작자료/내레이션/음성/S03_엇갈린마음.mp3",
+    "bytes": 108712,
+    "sha256": "c6a7d209a8563af3c712cd3f31fdaca68d28c7c812588641d6c13a1ef59a6d54"
+  },
+  {
+    "path": "제작자료/내레이션/음성/S04_닭싸움.mp3",
+    "bytes": 106204,
+    "sha256": "f8793682000c4cc472a18c3e52ce2fb6b327b03ec3ab6e038883ba0fef526db1"
+  },
+  {
+    "path": "제작자료/내레이션/음성/S05_참아야하는이유.mp3",
+    "bytes": 104950,
+    "sha256": "d88240d767d08bcd5305e860674cee4a5bad51e1d90de734a00ca3970977cdaf"
+  },
+  {
+    "path": "제작자료/내레이션/음성/S06_멈춘호드기.mp3",
+    "bytes": 108712,
+    "sha256": "8b7297c86699d490352dab01dc765de447d67fa9812338bf15545e82a4b849bd"
+  },
+  {
+    "path": "제작자료/내레이션/음성/S07_처음본눈물.mp3",
+    "bytes": 106204,
+    "sha256": "41fa8b84b3cc5c563fce94cedcfe4a486c1c8f95194a2b82a6c79e2e4323501d"
+  },
+  {
+    "path": "제작자료/내레이션/음성/S08_노란꽃밭.mp3",
+    "bytes": 113727,
+    "sha256": "b8db7adb7dcd3deea3150c75524d69cb17f95e1754ce48a13eeae5bb654a0b46"
+  },
+  {
+    "path": "제작자료/내레이션/음성/S09_제목과여운.mp3",
+    "bytes": 103278,
+    "sha256": "b0380e59d2d6f12c99e92033d9daae365b952ed480e557707bea64d73901d7b7"
+  },
+  {
+    "path": "제작자료/내레이션/음성/동백꽃777_내레이션_전체_72초.mp3",
+    "bytes": 1729767,
+    "sha256": "fed9a11cf04c5424e61fea5d1f1046cb1a6449a08d65263cd17864092df619ba"
+  },
+  {
+    "path": "제작자료/완성본/동백꽃777_내레이션_자막_배경음악.mp4",
+    "bytes": 36548605,
+    "sha256": "e1894e84374eba2f5daeb143990eab4e3bd6b7fd82825e5798a0faf2b059c2b9"
+  },
+  {
+    "path": "제작자료/이미지/동영상/동백꽃777영상_20261107061003.mp4",
+    "bytes": 65815367,
+    "sha256": "84082ad8ea46b103f0c177e64b84ee86bc12345ffd20a2c86a4e003d6777b36e"
+  },
+  {
+    "path": "제작현황.md",
+    "bytes": 4630,
+    "sha256": "945eefbd1f39c2800c17d0e189e6e1fb941a9d55668b61e1eb3ecb5efaabe174"
   }
 ]
