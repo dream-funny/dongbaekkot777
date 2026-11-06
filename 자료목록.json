@@ -265,11 +265,6 @@
     "sha256": "cf69b0731fd78e75cad5fad1408736874f447fb9dd87a11b1e99c857d66cbfd7"
   },
   {
-    "path": "README.md",
-    "bytes": 4151,
-    "sha256": "52ad146b797a652fa90ee5fb6f824153f4cf70e1eb433b70583fb569c4925f2f"
-  },
-  {
     "path": "제작자료/내레이션/동백꽃777_한글자막.srt",
     "bytes": 1776,
     "sha256": "3faf224ba3581c86c52f70545024b18e7fc350c12cadf9cf67d39227dfabe6f4"
@@ -335,8 +330,18 @@
     "sha256": "84082ad8ea46b103f0c177e64b84ee86bc12345ffd20a2c86a4e003d6777b36e"
   },
   {
+    "path": "README.md",
+    "bytes": 4237,
+    "sha256": "2b95c68be4fc2dfcd01b5283039b7b30dfe6099352367a74b17dbe465bb7cf22"
+  },
+  {
+    "path": "제작자료/완성본/동백꽃777_유튜브_썸네일.jpg",
+    "bytes": 203273,
+    "sha256": "7e9ccf6bc9a5682e0ad4e93e2ead60823e25a2a4911243457ac2d7fead29206a"
+  },
+  {
     "path": "제작현황.md",
-    "bytes": 4630,
-    "sha256": "945eefbd1f39c2800c17d0e189e6e1fb941a9d55668b61e1eb3ecb5efaabe174"
+    "bytes": 4806,
+    "sha256": "ad85b51bba7c6c24671b033b3c08e4eb0d7b1ed7dc5a023b6902bbad18f69518"
   }
 ]
