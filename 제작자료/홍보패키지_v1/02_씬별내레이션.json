@@ -1,0 +1,74 @@
+[
+  {
+    "scene": "S01",
+    "window": "00:00–00:08",
+    "title": "봄날의 방문",
+    "ko": "봄이 오자, 점순이는 자꾸 소년 곁을 맴돌았습니다. 마음보다 핑계가 먼저였지요.",
+    "en": "Spring arrived, and Jeomsun kept finding reasons to see the boy. Excuses came more easily than affection.",
+    "delivery": "미소를 머금고 호기심 있게 / Warm, gently curious."
+  },
+  {
+    "scene": "S02",
+    "window": "00:08–00:16",
+    "title": "거절당한 감자",
+    "ko": "수건에 싼 감자 세 개. 건넨 것은 마음인데, 소년은 가난을 놀리는 줄 알았습니다.",
+    "en": "Three potatoes in a white cloth: a small gift of affection. He mistook it for a taunt about his poverty.",
+    "delivery": "감자는 다정하게, 오해는 담담하게 / Tender at first, then gently rueful."
+  },
+  {
+    "scene": "S03",
+    "window": "00:16–00:24",
+    "title": "엇갈린 마음",
+    "ko": "점순이는 감자를 거두고 입술을 다물었습니다. 서운한 마음만, 갈 곳을 잃었지요.",
+    "en": "Jeomsun drew the potatoes back and pressed her lips together. Her hurt had nowhere to go.",
+    "delivery": "짧은 쉼, 울음 과장 없음 / Brief pauses; no exaggerated crying."
+  },
+  {
+    "scene": "S04",
+    "window": "00:24–00:32",
+    "title": "닭싸움",
+    "ko": "그날부터 애꿎은 닭들이 싸웠습니다. 점순이의 심술에, 소년의 속도 끓어올랐지요.",
+    "en": "Soon, even the roosters were drawn into their quarrel. Her wounded pride kept feeding his anger.",
+    "delivery": "처음은 작은 익살, 끝은 긴장 / Light irony turning to tension."
+  },
+  {
+    "scene": "S05",
+    "window": "00:32–00:40",
+    "title": "참아야 하는 이유",
+    "ko": "점순네 땅을 부치는 집안이었습니다. 소년은 닭을 품에 안고, 화마저 삼켰지요.",
+    "en": "His family farmed her family’s land. Cradling his rooster, the boy swallowed the anger he could not afford.",
+    "delivery": "낮고 차분하게 / Quiet and restrained."
+  },
+  {
+    "scene": "S06",
+    "window": "00:40–00:48",
+    "title": "멈춘 호드기",
+    "ko": "또 닭싸움. 소년은 끝내 점순네 닭을 때렸습니다. 닭은 다시 일어나지 못했지요.",
+    "en": "Another rooster fight. This time, the boy struck Jeomsun’s bird. It did not get up again.",
+    "delivery": "“또 닭싸움” 뒤 쉼; 마지막 낮게 / Pause after the opening; lower the final sentence."
+  },
+  {
+    "scene": "S07",
+    "window": "00:48–00:56",
+    "title": "처음 본 눈물",
+    "ko": "쫓겨나면 어쩌나. 두려움이 눈물로 터졌습니다. 점순이도 그제야 소년의 마음을 보았지요.",
+    "en": "What if his family lost their home? Fear broke into tears. Only then did Jeomsun understand his pain.",
+    "delivery": "소년의 걱정을 대신 읽되 인물 대사처럼 연기하지 않음 / Empathetic storytelling, not character dialogue."
+  },
+  {
+    "scene": "S08",
+    "window": "00:56–01:04",
+    "title": "노란 꽃밭",
+    "ko": "점순이는 이르지 않겠다며 소년을 달랬습니다. 작은 손길 하나가, 오해를 풀어주었지요.",
+    "en": "Jeomsun reassured him that she would not tell. A gentle hand on his shoulder began to undo their misunderstanding.",
+    "delivery": "따뜻하게, 감정 절제 / Warm, with a restrained sense of relief."
+  },
+  {
+    "scene": "S09",
+    "window": "01:04–01:12",
+    "title": "제목과 여운",
+    "ko": "좋아한다는 말은 없었습니다. 노란 꽃 사이로, 말보다 먼저 봄이 피어났지요.",
+    "en": "Neither knew how to name the feeling. Among the yellow blossoms, spring arrived before the words.",
+    "delivery": "마지막 뒤 여운 / Let the final words settle."
+  }
+]
